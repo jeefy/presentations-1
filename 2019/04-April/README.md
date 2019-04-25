@@ -10,9 +10,9 @@ Thanks to Ithaka for hosting!
 
 ### Speaker Information
 
-* **Name:** [Jeffrey Sica](https://mdlayher.com/)
-* **GitHub:** [@jeefy](https://github.com/mdlayher)
-* **Twitter:**  [@jeefy](https://twitter.com/mdlayher)
+* **Name:** [Jeffrey Sica](https://jeefy.net/)
+* **GitHub:** [@jeefy](https://github.com/jeefy)
+* **Twitter:**  [@jeefy](https://twitter.com/jeefy)
 
 ### Event Details
 
